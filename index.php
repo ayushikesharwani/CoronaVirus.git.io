@@ -6,7 +6,6 @@
 	<?php include 'css/style.php';?>
 </head>
 <body onload="fetch()">
-	
 
 <nav class="navbar navbar-expand-lg navbar-light nav_style p-3 ">
   <a class="navbar-brand pl-5" href="#">COVID-19</a>
