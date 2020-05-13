@@ -1,1 +1,1 @@
-# https://CoronaVirus.git.io
+# https://CoronaViruss.github.io
